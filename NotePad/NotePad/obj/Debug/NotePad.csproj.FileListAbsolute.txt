@@ -1,0 +1,8 @@
+D:\za universiteta\TSP\Domashno9\NotePad\NotePad\obj\Debug\NotePad.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno9\NotePad\NotePad\obj\Debug\NotePad.blank.resources
+D:\za universiteta\TSP\Domashno9\NotePad\NotePad\obj\Debug\NotePad.Frmmain.resources
+D:\za universiteta\TSP\Domashno9\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno9\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno9\NotePad\NotePad\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno9\NotePad\NotePad\obj\Debug\NotePad.About.resources
+D:\za universiteta\TSP\Domashno9\NotePad\NotePad\obj\Debug\NotePad.FindForm.resources
